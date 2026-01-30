@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/array-base-symmetric-filled2d-by",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Create a filled two-dimensional symmetric nested array according to a provided callback function.",
   "license": "Apache-2.0",
   "author": {
