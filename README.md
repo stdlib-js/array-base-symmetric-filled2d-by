@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import filled2dBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-symmetric-filled2d-by@deno/mod.js';
+import filled2dBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-symmetric-filled2d-by@v0.1.0-deno/mod.js';
 ```
 
 #### filled2dBy( N, clbk\[, thisArg] )
@@ -125,7 +125,7 @@ var cnt = ctx.count;
 
 ```javascript
 import constantFunction from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-constant-function@deno/mod.js';
-import filled2dBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-symmetric-filled2d-by@deno/mod.js';
+import filled2dBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-symmetric-filled2d-by@v0.1.0-deno/mod.js';
 
 var out = filled2dBy( 2, constantFunction( 0.0 ) );
 // returns [ [ 0.0, 0.0 ], [ 0.0, 0.0 ] ]
